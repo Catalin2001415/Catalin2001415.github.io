@@ -3,8 +3,8 @@ Acura web page
 
 Adaptiv + PerfectPixel
 
-Am incercat sa fac sa lucreze pe toate browzerele de la EX11 (anume in EX11 este un bag unde <h1> (intro) nu se arata corect
-se corecteaza problema daca de pus in loc de <h1> tegul <p> am lasat <h1> aici as intreba dam daca trebu sa lucreze bine in EX11 
-de pus <p> daca nui asa de important de lasat <h1>
+Am incercat sa fac sa lucreze pe toate browzerele de la EX11 (anume in EX11 este un bag unde <-h1> (intro) nu se arata corect
+se corecteaza problema daca de pus in loc de <-h1> tegul <-p> am lasat <-h1> aici as intreba dam daca trebu sa lucreze bine in EX11 
+de pus <p> daca nui asa de important de lasat <-h1>
 
 Html-ul este valid
